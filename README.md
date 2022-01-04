@@ -13,3 +13,7 @@
 2) Run the script
 
 3) Wait for the .mp3 files to appear in your folder
+
+## Future updates
+
+Introduce the use AWS polly voice feature as it sounds more lifelike than Google translate voice.
