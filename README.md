@@ -1,18 +1,14 @@
 # pdf-to-audiobook
 
-This is quick and simple solition to convert PDFs into audiobooks.
-
-<code>Property visualizer</code> is a simple Python interface that allows the user to scrape currently listed properties from a website, store them in Pandas dataframe which can be visualized as a dot map with Google API, Branca and Folium.
+<code>Pdf-to-audiobookr</code> is quick and simple solition to convert PDFs into audiobooks.
 
 ## How it works
 
-<img src = "./doc_images/howitworks.jpg">
+<img src = "./doc_imag/howitworks.jpg">
 
 ## How to use
 
 1) Provide a location for the .pdf file
-
-<img src = "./doc_images/pdf_select.jpg">
 
 2) Run the script
 
