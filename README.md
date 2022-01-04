@@ -4,7 +4,7 @@
 
 ## How it works
 
-<img src = "./doc_imag/howitworks.jpg">
+<img src = "./doc_img/howitworks.jpg">
 
 ## How to use
 
