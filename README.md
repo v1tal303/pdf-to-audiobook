@@ -16,4 +16,4 @@
 
 ## Future updates
 
-Introduce the use AWS polly voice feature as it sounds more lifelike than Google translate voice.
+Introduce the use AWS polly voice feature as it sounds more lifelike than Google translate voice. 
